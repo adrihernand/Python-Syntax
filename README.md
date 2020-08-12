@@ -8,8 +8,7 @@ An introduction to programming using Python  by David I. Schneider
 
 Original copy of this book can be purchased from Pearson(https://www.pearson.com/)
 
-
-All examples and problems from the book are worked on Python language.
+This repo is a tutorial of the examples and problems from the book. They are worked on Python.
 
 The book contains 8 chapters. In this repo, Chapter 2, 3, 4 ad 5 were worked.
 
