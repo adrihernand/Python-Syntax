@@ -1,4 +1,4 @@
-# Python-Syntax
+# Python Syntax Repository
 Python Syntax using Jupyter notebooks
 
 
